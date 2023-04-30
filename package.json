@@ -9,7 +9,7 @@
   "dependencies": {},
   "devDependencies": {
     "mocha": "^5.2.0",
-    "mochawesome": "^3.0.3",
+    "mochawesome": "^7.1.3",
     "node-cmd": "^3.0.0"
   },
   "scripts": {
